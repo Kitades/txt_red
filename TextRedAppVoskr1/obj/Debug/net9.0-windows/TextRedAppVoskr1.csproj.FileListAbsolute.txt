@@ -1,0 +1,16 @@
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\bin\Debug\net9.0-windows\TextRedAppVoskr1.exe
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\bin\Debug\net9.0-windows\TextRedAppVoskr1.deps.json
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\bin\Debug\net9.0-windows\TextRedAppVoskr1.runtimeconfig.json
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\bin\Debug\net9.0-windows\TextRedAppVoskr1.dll
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\bin\Debug\net9.0-windows\TextRedAppVoskr1.pdb
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\obj\Debug\net9.0-windows\TextRedAppVoskr1.Form1.resources
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\obj\Debug\net9.0-windows\TextRedAppVoskr1.csproj.GenerateResource.cache
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\obj\Debug\net9.0-windows\TextRedAppVoskr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\obj\Debug\net9.0-windows\TextRedAppVoskr1.AssemblyInfoInputs.cache
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\obj\Debug\net9.0-windows\TextRedAppVoskr1.AssemblyInfo.cs
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\obj\Debug\net9.0-windows\TextRedAppVoskr1.csproj.CoreCompileInputs.cache
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\obj\Debug\net9.0-windows\TextRedAppVoskr1.dll
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\obj\Debug\net9.0-windows\refint\TextRedAppVoskr1.dll
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\obj\Debug\net9.0-windows\TextRedAppVoskr1.pdb
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\obj\Debug\net9.0-windows\TextRedAppVoskr1.genruntimeconfig.cache
+C:\Users\KiberOne\source\repos\TextRedAppVoskr1\TextRedAppVoskr1\obj\Debug\net9.0-windows\ref\TextRedAppVoskr1.dll
